@@ -4,8 +4,7 @@ An animated, responsive redesign of the TIS homepage. Brand colors (navy and yel
 
 ## Live Demo
 
-- **Live URL:** _add your Vercel / Netlify link_
-- **Repository:** _add your GitHub link_
+- **Live URL:** https://tis-homepage-redesign1.vercel.app
 
 ## Tech Stack
 
